@@ -12,7 +12,7 @@ It can be helpful to visualize complex numbers on the complex plane:
 ![complex plane]{<img width="1819" height="1063" alt="image" src="https://github.com/user-attachments/assets/37a67d36-b47a-48b9-8076-25a053f6e087" />}
 
 Complex numbers can also be represented in polar form as below
-[ ! [polar form] ] {https://slideplayer.com/slide/13501066/82/images/16/Polar+Form+The+same+Complex+Number+may+be+expressed+in+Polar+Form:.jpg} ]
+[ ! [polar form] {https://slideplayer.com/slide/13501066/82/images/16/Polar+Form+The+same+Complex+Number+may+be+expressed+in+Polar+Form:.jpg} ]
 (https://slideplayer.com/slide/13501066/)
 
 To understand how the polar form is derived, check out this video: 
