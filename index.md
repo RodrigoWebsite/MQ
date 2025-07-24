@@ -5,6 +5,7 @@
 layout: single
 author_profile: false
 ---
+**Project Idea**  
 Modeling Entangled Qubits for Distributed Data Representation in Machine Learning.
  
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
