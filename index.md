@@ -36,6 +36,12 @@ This project aims to explore that question through a digital simulation framewor
  References
 - Kwak, Y., Yun, W. J., Jung, S., & Kim, J. (2021). Quantum neural networks: Concepts, applications, and challenges. arXiv. [arXiv:2108.01468](https://arxiv.org/abs/2108.01468)
 - Mitarai, K., Negoro, M., Kitagawa, M., & Fujii, K. (2018). *Quantum Circuit Learning*. [arXiv:1803.00745](https://arxiv.org/abs/1803.00745)
--  Broughton, M., Verdon, G., McCourt, T., Martinez, A. J., Yoo, J. H., Isakov, S. V., ... & Mohseni, M. (2020). *TensorFlow Quantum: A Software Framework for Quantum Machine Learning*. [arXiv:2003.02989](https://arxiv.org/abs/2003.02989)  
+-  Broughton, M., Verdon, G., McCourt, T., Martinez, A. J., Yoo, J. H., Isakov, S. V., ... & Mohseni, M. (2020). *TensorFlow Quantum: A Software Framework for Quantum Machine Learning*. [arXiv:2003.02989](https://arxiv.org/abs/2003.02989)
+
+---
+
+## Tools & Techniques
+
+
 
 
