@@ -14,6 +14,12 @@ Design and simulate a quantum neural network (QNN) that leverages **quantum enta
 
 Quantum computing enables new computational models using **qubits**, which exist in a superpositions and can become **entangled**, forming non-classical correlations. Machine learning, on the other hand, seeks to identify patterns in data. By combining these domains, **Quantum Neural Networks** (QNN's) may outperform classical models in certain settings by leveraging entanglement to encode richer relationships across inputs. 
 
+This project is motivated by a desire to : 
+- Explore how entanglement can code dependencies across distributed features.
+- Simulate and analyze QNN to observe how quantum effects influence learning.
+- Bridge quantum theory with practical ML (machine learning) techniques.
+
+
 
 
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
@@ -25,4 +31,4 @@ Complex numbers can also be represented in polar form as shown below:
 [![polar form](https://slideplayer.com/slide/13501066/82/images/16/Polar+Form+The+same+Complex+Number+may+be+expressed+in+Polar+Form:.jpg)](https://slideplayer.com/slide/13501066/)
 
 To understand how the polar form is derived, check out this video:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J6TnZxUUzqU?si=qzkxSFI_cxdSAVoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<[iframe width="560" height="315" src="https://www.youtube.com/embed/J6TnZxUUzqU?si=qzkxSFI_cxdSAVoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe](https://youtu.be/rEDzUT3ymw4?si=UJNqqWpieu4aCPP1)>
