@@ -54,4 +54,9 @@ This project aims to explore that question through a digital simulation framewor
 ---
 
 ## Tools & Techniques
-_(Coming soon)_
+
+### Mathematics:
+-  **Linear Algebra** - tensor products, unitary matrices, eigen states
+-  **Complex numbers** - amplitudes and phase representation
+-  **Probability Theory** - Born rule for measurement probabilities
+-   **Optimization** - (classical) gradient-based methods applied to PQCs
