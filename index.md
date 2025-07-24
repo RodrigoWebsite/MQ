@@ -5,9 +5,8 @@
 layout: single
 author_profile: false
 ---
-
-Complex numbers are numbers with a *real component* and an *imaginary component*, in the form \\(a + bi\\), where `a` and `b` are **real** numbers and `i` is the **imaginary unit**.
-
+Modeling Entangled Qubits for Distributed Data Representation in Machine Learning.
+ 
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
 
 It can be helpful to visualize complex numbers on the complex plane:  
