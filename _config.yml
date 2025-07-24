@@ -57,11 +57,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Rodrigo Arias"
-  avatar : "/assets/images/IMG_7578.png"
-  bio    : "For any inquiries email: rodrigomarias09@gmail.com"
-  
+author: rodrigo
 defaults:
   # _posts
   - scope:
