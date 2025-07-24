@@ -19,7 +19,8 @@ This project is motivated by a desire to :
 - Simulate and analyze QNN to observe how quantum effects influence learning.
 - Bridge quantum theory with practical ML (machine learning) techniques.
 
-
+Resource video to understand the basics of Neural Networks: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rEDzUT3ymw4?si=UJNqqWpieu4aCPP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
@@ -30,5 +31,4 @@ It can be helpful to visualize complex numbers on the complex plane:
 Complex numbers can also be represented in polar form as shown below:  
 [![polar form](https://slideplayer.com/slide/13501066/82/images/16/Polar+Form+The+same+Complex+Number+may+be+expressed+in+Polar+Form:.jpg)](https://slideplayer.com/slide/13501066/)
 
-To understand how the polar form is derived, check out this video:  
-<[iframe width="560" height="315" src="https://www.youtube.com/embed/J6TnZxUUzqU?si=qzkxSFI_cxdSAVoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe](https://youtu.be/rEDzUT3ymw4?si=UJNqqWpieu4aCPP1)>
+
