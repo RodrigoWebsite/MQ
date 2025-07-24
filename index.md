@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-# Modeling Entangled Qubits for Distributed Data Representation in Machine Learning
+# Modeling Entangled Qubits for Distributed Data Representation in Machine Learning.
 
  ### **Project Idea**  
 Design and simulate a quantum neural network (QNN) that leverages **quantum entanglement** to model correlations in distributed datasets. My goal is to explore how entangled qubits can enhance representational capacity and learning performance in machine learning tasks.
