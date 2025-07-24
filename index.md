@@ -66,7 +66,7 @@ This project aims to explore that question through a digital simulation framewor
 - [PennyLane](https://pennylane.ai/) – for hybrid (quantum-classical) ML modeling
 -  Python (NumPy, matplotlib) – data handling, analysis, and graphing
 
-  ---
+---
 
   ## Goals & Future Work
 
