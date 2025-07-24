@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 title: "Modeling Entangled Qubits for Distributed Data Representation in Machine Learning"
-author_profile: false
+author_profile: true
 ---
 
 ### **Project Idea**
@@ -56,7 +56,29 @@ This project aims to explore that question through a digital simulation framewor
 ## Tools & Techniques
 
 ### Mathematics:
--  **Linear Algebra** - tensor products, unitary matrices, eigen states
--  **Complex numbers** - amplitudes and phase representation
--  **Probability Theory** - Born rule for measurement probabilities
--   **Optimization** - (classical) gradient-based methods applied to PQCs
+-  **Linear Algebra** - tensor products, unitary matrices, eigen states (model quantum gates, represent multiqubit-systems, and explore state evolution & measurement).
+-  **Complex numbers** - amplitudes (encode probabilities) and phase representation (affects interference and entanglement).
+-  **Probability Theory** - Born rule for measurement probabilities ( `|α|² + |β|² = 1`).
+-   **Optimization** - (classical) gradient-based methods applied to PQCs (to train the basic QNN by minimizing a cost function)
+
+### Quantum/CS Tools: 
+- [Qiskit](https://qiskit.org/) – for quantum circuit simulation and visualization
+- [PennyLane](https://pennylane.ai/) – for hybrid (quantum-classical) ML modeling
+-  Python (NumPy, matplotlib) – data handling, analysis, and graphing
+
+  ---
+
+  ## Goals & Future Work
+
+This project aligns with my interest in **QML** and **mathematics**. Over the coming months, I will: 
+- Build and simulate small QNN models
+- Experiment with how entangled qubits influence model expresiveness
+- Visualize training performance and quantum state evolution
+- Aspire to develop this into a deeper research project
+
+  ### After MathQuantum
+  After this program, I plan to persue independent research and improve on this frame work - documenting my progress in Github and collaborating with mentors or researchers were possible.
+
+  ---
+
+### Thank you!  
