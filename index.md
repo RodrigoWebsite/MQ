@@ -76,7 +76,7 @@ This project aligns with my interest in **QML** and **mathematics**. Over the co
 - Visualize training performance and quantum state evolution
 - Aspire to develop this into a deeper research project
 
-  ### After MathQuantum
+### After MathQuantum
   After this program, I plan to persue independent research and improve on this frame work - documenting my progress in Github and collaborating with mentors or researchers were possible.
 
   ---
