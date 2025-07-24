@@ -68,7 +68,7 @@ This project aims to explore that question through a digital simulation framewor
 
 ---
 
-  ## Goals & Future Work
+## Goals & Future Work
 
 This project aligns with my interest in **QML** and **mathematics**. Over the coming months, I will: 
 - Build and simulate small QNN models
@@ -77,8 +77,9 @@ This project aligns with my interest in **QML** and **mathematics**. Over the co
 - Aspire to develop this into a deeper research project
 
 ### After MathQuantum
-  After this program, I plan to persue independent research and improve on this frame work - documenting my progress in Github and collaborating with mentors or researchers were possible.
 
-  ---
+After this program, I plan to pursue independent research and improve on this framework – documenting my progress in GitHub and collaborating with mentors or researchers where possible.
 
-### Thank you!  
+---
+
+### Thank you!
