@@ -5,9 +5,17 @@
 layout: single
 author_profile: false
 ---
-**Project Idea**  
+ **Project Idea**  
 Design and simulate a quantum neural network (QNN) that leverages **quantum entanglement** to model correlations in distributed datasets. My goal is to explore how entangled qubits can enhance representational capacity and learning performance in machine learning tasks.
- 
+
+---
+
+ Background & Motivation
+
+Quantum computing enables new computational models using **qubits**, which exist in a superpositions and can become **entangled**, forming non-classical correlations. Machine learning, on the other hand, seeks to identify patterns in data. By combining these domains, **Quantum Neural Networks** (QNN's) may outperform classical models in certain settings by leveraging entanglement to encode richer relationships across inputs. 
+
+
+
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
 
 It can be helpful to visualize complex numbers on the complex plane:  
