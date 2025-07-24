@@ -23,6 +23,7 @@ This project is motivated by a desire to :
 - Bridge quantum theory with practical ML (machine learning) techniques.
 
  ### Resource video (basics of Neural Networks): 
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rEDzUT3ymw4?si=UJNqqWpieu4aCPP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Now that you've seen how classical neural networks function, consider this question: 
@@ -37,6 +38,7 @@ This project aims to explore that question through a digital simulation framewor
 ---
 
  ## References
+ 
 - Kwak, Y., Yun, W. J., Jung, S., & Kim, J. (2021). Quantum neural networks: Concepts, applications, and challenges. arXiv. [arXiv:2108.01468](https://arxiv.org/abs/2108.01468)
 - Mitarai, K., Negoro, M., Kitagawa, M., & Fujii, K. (2018). *Quantum Circuit Learning*. [arXiv:1803.00745](https://arxiv.org/abs/1803.00745)
 -  Broughton, M., Verdon, G., McCourt, T., Martinez, A. J., Yoo, J. H., Isakov, S. V., ... & Mohseni, M. (2020). *TensorFlow Quantum: A Software Framework for Quantum Machine Learning*. [arXiv:2003.02989](https://arxiv.org/abs/2003.02989)
