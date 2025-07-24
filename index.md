@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 **Project Idea**  
-Modeling Entangled Qubits for Distributed Data Representation in Machine Learning.
+Design and simulate a quantum neural network (QNN) that leverages **quantum entanglement** to model correlations in distributed datasets. My goal is to explore how entangled qubits can enhance representational capacity and learning performance in machine learning tasks.
  
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
 
