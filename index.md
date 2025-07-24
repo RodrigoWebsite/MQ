@@ -22,6 +22,15 @@ This project is motivated by a desire to :
 Resource video to understand the basics of Neural Networks: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rEDzUT3ymw4?si=UJNqqWpieu4aCPP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Now that you've seen how classical neural networks function, consider this question: 
+**What if information could be shared instantaneously between neurons, no matter how far apart they are in the network?**
+
+In the quantum world, entanglement allows particles to be correlated in a way that has no classical equivalent. 
+
+Could a basic QNN leverage entanglement to represent non-local correlations between data points in a way that a classical neural network cant?
+
+This project aims to explore that question through a digital simulation framework (which will be introduced in the tools section).
+
 
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
 
